@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and blockchain development.
 - 🌱 I’m currently learning AI and trading system.
 - 💞️ I would like to collaborate on your project.
-- 📫 How to reach me : skype: live:.cid.c82647754a57ed99
+- 📫 How to reach me : chatwork: HELLO-CLIENT
                         email: blueplanet0628@gmail.com...
 - ⚡ Fun fact: ...
 
