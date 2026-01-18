@@ -2,7 +2,7 @@
 
 # 👋 はじめまして！Welcome!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237B3F98&size=40&center=true&vCenter=true&width=600&height=80&lines=Uninya+Inc.+株式会社;20年以上のWeb開発経験;Full-Stack+Development+Company" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237B3F98&size=40&center=true&vCenter=true&width=600&height=80&lines=Uninya+Inc.+株式会社;20年以上のWeb開発経験;" alt="Typing SVG" />
 
 </div>
 
